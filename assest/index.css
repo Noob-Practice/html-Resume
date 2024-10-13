@@ -1,0 +1,57 @@
+* {
+  background-color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(106, 103, 255);
+}
+
+h2 {
+  color: blue;
+}
+
+h3 {
+  color: rgb(240, 255, 25);
+  font-size: 20px;
+}
+
+p {
+  font-size: medium;
+}
+
+.cv_links {
+  color: red;
+  font-size: 20px;
+}
+
+.quali_date {
+  font-size: 20px;
+  color: rgb(49, 241, 241);
+}
+
+.main-topic {
+  color: rgb(106, 103, 255);
+  font-weight: normal;
+}
+
+.menu {
+  color: rgb(255, 47, 210);
+  font-size: 25px;
+}
+
+#profession {
+  color: rgb(227, 252, 139);
+}
+
+.summary {
+  color: #fff9a5;
+  font-size: 20px;
+}
+
+li {
+  font-size: 20px;
+  color: #fff9a5;
+}
